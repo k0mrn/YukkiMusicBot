@@ -14,12 +14,12 @@
     "stack": "container",
     "env": {
       "API_ID": {
-        "description": "Get this value from https://my.telegram.org",
+        "description": "8432898",
         "value": "",
         "required": true
       },
       "API_HASH": {
-        "description": "Get this value from https://my.telegram.org",
+        "description": "87f93dda61e47a32f78d5aeac3bc1556",
         "value": "",
         "required": true
       },
@@ -29,7 +29,7 @@
         "required": true
       },
       "BOT_TOKEN": {
-        "description": "A Bot's token from Botfather",
+        "description": "5244457961:AAGT4k5_17hsBL4Ui6dZVYwA_hLO0rpLs1k",
         "value": "",
         "required": true
       },
@@ -39,17 +39,17 @@
         "required": false
       },
       "MUSIC_BOT_NAME": {
-        "description": "A name for your Music Bot. Please don't use ascii characters",
+        "description": "CrolokMusicBETA,
         "value": "",
         "required": true
       },
       "OWNER_ID": {
-        "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
+        "description": " 5145413712",
         "value": "",
         "required": true
       },
       "STRING_SESSION": {
-        "description": "A Pyrogram String Session. One Assistant is Compulsory.",
+        "description": "AgDDo-Q4pJaxLfHYC0MY3FGKMy5PMh2IpKquG7JUTPenPHE1Ok7hRDJy4M5y8HCzeQbvYQ4oW5vPXvBfrnb_gwb4WK6FoPS_A-G8fjxFy1XgqOHL5FlMwIQESlkbu43Ef8Zl0zBVWQKt4rbjfnzC9aT6QcQ2wxm7XhMi6N2I1AKFAX4Q-Rjp3bvH-WU-BIyFhvxFbmXJcW1UBM5PWPa0V-QCicgElCwD3zwHMZQp3enKctj4Dd-bkqxSg8yR0N33yNpDKJirZwrCjACpMspV2yLyqTjLO_cytvYDdharii8onp5rYcLVbojwJyEOG5tByFRzC9rYxiPfxhcV3gPt8sg1AAAAAS7A8cYA ",
         "value": "",
         "required": true
       },
@@ -63,8 +63,8 @@
         "value": "",
         "required": false
       },
-      "LOG_GROUP_ID": {
-        "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Use only Group. Please don't use Channel ID.",
+      "LOG_GROUP_ID": { 
+        "description": "1001614042787",
         "value": "",
         "required": true
       },
