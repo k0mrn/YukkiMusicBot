@@ -39,7 +39,7 @@
         "required": false
       },
       "MUSIC_BOT_NAME": {
-        "description": "CrolokMusicBETA,
+        "description": "@CrolokMusicBot,
         "value": "",
         "required": true
       },
